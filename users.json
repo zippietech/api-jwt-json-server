@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "bruno@email.com",
+            "password": "bruno",
+            "firstName": "Bruno",
+            "lastName": "Robert",
+            "isAdmin": true
+        },
+        {
+            "id": 2,
+            "email": "techie@email.com",
+            "password": "techie",
+            "firstName": "Techie",
+            "lastName": "Michael",
+            "isAdmin": false
+        },
+        {
+            "id": 3,
+            "email": "nilson@email.com",
+            "password": "nilson",
+            "firstName": "Nilson",
+            "lastName": "William",
+            "isAdmin": false
+        },
+        {
+            "id": 4,
+            "email": "vishal.shivhare@zehntech.com",
+            "password": "vishal",
+            "firstName": "Vishal",
+            "lastName": "Shivhare",
+            "isAdmin": false
+        }
+    ]
+}
